@@ -7,7 +7,7 @@ setImmediate(() => console.log("Immediate 1 finished"));
 
 process.env.UV_THREADPOOL_SIZE = 50;
 
-fs.readFile('dog.txt', () => {
+fs.readFile('test-file.txt', () => {
     console.log("I/O finished");
     console.log("--------------------------------");
 
