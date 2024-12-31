@@ -1,0 +1,14 @@
+{
+  "name": "asyc-chp-1",
+  "version": "1.0.0",
+  "description": "Asynchoronus",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shreyansh Jha",
+  "license": "ISC",
+  "dependencies": {
+    "superagent": "^10.1.1"
+  }
+}
